@@ -2,7 +2,7 @@ package Hw3Post;
 
 import Hw3Post.LinkedList.Node;
 
-public class Hw4GenericTest <T> {
+public class DataStructureTest <T> {
 
 	public static void main(String[] args) {
 		System.out.println("Generic Type Practice");
